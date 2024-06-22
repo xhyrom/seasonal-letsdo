@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "bakery:oat_seeds", "required": false },
+    { "id": "bakery:strawberry_seeds", "required": false },
+    { "id": "brewery:corn_seeds", "required": false },
+    { "id": "brewery:barley_seeds", "required": false },
+    { "id": "brewery:hops_seeds", "required": false },
+    { "id": "candlelight:tomato_seeds", "required": false },
+    { "id": "candlelight:lettuce_seeds", "required": false },
+    { "id": "vinery:savanna_grape_seeds_red", "required": false },
+    { "id": "vinery:savanna_grape_seeds_white", "required": false },
+    { "id": "vinery:jungle_grape_seeds_red", "required": false },
+    { "id": "vinery:jungle_grape_seeds_white", "required": false },
+    { "id": "vinery:red_grape_seeds", "required": false },
+    { "id": "vinery:white_grape_seeds", "required": false }
+  ]
+}

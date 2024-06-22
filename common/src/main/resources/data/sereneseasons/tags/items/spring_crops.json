@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "bakery:strawberry_seeds", "required": false },
+    { "id": "brewery:corn_seeds", "required": false },
+    { "id": "candlelight:tomato_crop", "required": false },
+    { "id": "candlelight:lettuce_seeds", "required": false },
+    { "id": "vinery:savanna_grape_seeds_red", "required": false },
+    { "id": "vinery:savanna_grape_seeds_white", "required": false },
+    { "id": "vinery:red_grape_seeds", "required": false },
+    { "id": "vinery:white_grape_seeds", "required": false }
+  ]
+}

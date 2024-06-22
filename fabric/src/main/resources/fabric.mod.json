@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "seasonal_lets_do",
+  "version": "${version}",
+  "name": "Seasonal Let's Do",
+  "description": "Adds compatibility for Let's Do and Serene Seasons.",
+  "authors": [
+    "xHyroM!"
+  ],
+  "contact": {
+    "homepage": "https://github.com/xHyroM/seasonal-letsdo",
+    "sources": "https://github.com/xHyroM/seasonal-letsdo"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/seasonal_lets_do/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.xhyrom.fabric.SeasonalLetsDoModFabric"
+    ]
+  },
+  "mixins": [
+    "seasonal_lets_do.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}

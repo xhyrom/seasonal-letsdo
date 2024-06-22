@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/xHyroM/seasonal-letsdo"
+license = "Apache-2.0"
+
+[[mods]]
+modId = "seasonal_lets_do"
+version = "${version}"
+displayName = "Seasonal Let's Do"
+authors = "xHyroM"
+description = '''
+Adds compatibility for Let's Do and Serene Seasons.
+'''
+#logoFile = ""
+
+[[dependencies.seasonal_lets_do]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.seasonal_lets_do]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "brewery:barley_crop", "required": false },
+    { "id": "vinery:taiga_grape_bush_red", "required": false },
+    { "id": "vinery:taiga_grape_bush_white", "required": false }
+  ]
+}

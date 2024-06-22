@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "bakery:strawberry_crop", "required": false },
+    { "id": "brewery:corn_crop", "required": false },
+    { "id": "candlelight:lettuce_crop", "required": false },
+    { "id": "vinery:savanna_grape_bush_red", "required": false },
+    { "id": "vinery:savanna_grape_bush_white", "required": false },
+    { "id": "vinery:red_grape_bush", "required": false },
+    { "id": "vinery:white_grape_bush", "required": false }
+  ]
+}
