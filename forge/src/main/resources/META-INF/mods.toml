@@ -11,7 +11,7 @@ authors = "xHyroM"
 description = '''
 Adds compatibility for Let's Do and Serene Seasons.
 '''
-#logoFile = ""
+logoFile = "pack.png"
 
 [[dependencies.seasonal_lets_do]]
 modId = "forge"
