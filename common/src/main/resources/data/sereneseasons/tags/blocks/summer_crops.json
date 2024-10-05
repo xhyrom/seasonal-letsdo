@@ -28,6 +28,7 @@
     { "id": "farm_and_charm:tomato_crop", "required": false },
     { "id": "farm_and_charm:strawberry_crop", "required": false },
     { "id": "farm_and_charm:lettuce_crop", "required": false },
-    { "id": "farm_and_charm:onion_crop", "required": false }
+    { "id": "farm_and_charm:onion_crop", "required": false },
+    { "id": "nethervinery:crimson_grape_bush", "required": false }
   ]
 }
