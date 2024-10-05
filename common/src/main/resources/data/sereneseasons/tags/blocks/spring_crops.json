@@ -13,6 +13,9 @@
     { "id": "bloomingnature:swamp_oak_sapling", "required": false },
     { "id": "bloomingnature:swamp_cypress_sapling", "required": false },
     { "id": "bloomingnature:ebony_sapling", "required": false },
-    { "id": "bloomingnature:chestnut_sapling", "required": false }
+    { "id": "bloomingnature:chestnut_sapling", "required": false },
+    { "id": "farm_and_charm:strawberry_crop", "required": false },
+    { "id": "farm_and_charm:onion_crop", "required": false },
+    { "id": "farm_and_charm:lettuce_crop", "required": false }
   ]
 }
