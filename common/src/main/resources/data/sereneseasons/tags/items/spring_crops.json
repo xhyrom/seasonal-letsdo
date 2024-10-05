@@ -8,6 +8,9 @@
     { "id": "vinery:savanna_grape_seeds_red", "required": false },
     { "id": "vinery:savanna_grape_seeds_white", "required": false },
     { "id": "vinery:red_grape_seeds", "required": false },
-    { "id": "vinery:white_grape_seeds", "required": false }
+    { "id": "vinery:white_grape_seeds", "required": false },
+    { "id": "farm_and_charm:onion", "required": false },
+    { "id": "farm_and_charm:strawberry_seeds", "required": false },
+    { "id": "farm_and_charm:oat_seeds", "required": false }
   ]
 }
