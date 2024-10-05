@@ -12,3 +12,5 @@ rootProject.name = 'seasonal_lets_do'
 include 'common'
 include 'fabric'
 include 'forge'
+include 'neoforge'
+
