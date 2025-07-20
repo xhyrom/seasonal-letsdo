@@ -16,6 +16,9 @@
     { "id": "bloomingnature:chestnut_sapling", "required": false },
     { "id": "farm_and_charm:strawberry_seeds", "required": false },
     { "id": "farm_and_charm:onion", "required": false },
-    { "id": "farm_and_charm:lettuce_seeds", "required": false }
+    { "id": "farm_and_charm:lettuce_seeds", "required": false },
+    { "id": "herbalbrews:lavender", "required": false },
+    { "id": "herbalbrews:tea_blossom", "required": false },
+    { "id": "herbalbrews:wild_yerba_mate_plant", "required": false }
   ]
 }

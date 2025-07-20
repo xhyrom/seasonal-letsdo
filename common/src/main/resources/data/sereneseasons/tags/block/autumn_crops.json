@@ -16,6 +16,12 @@
     { "id": "farm_and_charm:oat_crop", "required": false },
     { "id": "farm_and_charm:barley_crop", "required": false },
     { "id": "farm_and_charm:onion_crop", "required": false },
-    { "id": "nethervinery:warped_grape_bush", "required": false }
+    { "id": "nethervinery:warped_grape_bush", "required": false },
+    { "id": "herbalbrews:wild_coffee_plant", "required": false },
+    { "id": "herbalbrews:wild_yerba_mate_plant", "required": false },
+    { "id": "herbalbrews:wild_rooibos_plant", "required": false },
+    { "id": "herbalbrews:coffee_plant", "required": false },
+    { "id": "herbalbrews:yerba_mate_plant", "required": false },
+    { "id": "herbalbrews:rooibos_plant", "required": false }
   ]
 }
