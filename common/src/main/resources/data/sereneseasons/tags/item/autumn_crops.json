@@ -4,6 +4,7 @@
     { "id": "bakery:oat_seeds", "required": false },
     { "id": "brewery:barley_seeds", "required": false },
     { "id": "brewery:hops_seeds", "required": false },
+    { "id": "brewery:hops", "required": false },
     { "id": "vinery:red_grape_seeds", "required": false },
     { "id": "vinery:white_grape_seeds", "required": false },
     { "id": "vinery:taiga_grape_seeds_red", "required": false },
